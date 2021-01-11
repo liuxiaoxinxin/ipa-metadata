@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/matiassingers/ipa-metadata"
+    "url": "https://github.com/liuxiaoxinxin/ipa-metadata"
   },
   "author": "Matias Singers <mail@matiassingers.com> (http://mts.io)",
   "keywords": [
@@ -36,7 +36,7 @@
   "bugs": {
     "url": "https://github.com/matiassingers/ipa-metadata/issues"
   },
-  "homepage": "https://github.com/matiassingers/ipa-metadata",
+  "homepage": "https://github.com/liuxiaoxinxin/ipa-metadata",
   "dependencies": {
     "async": "1.2.1",
     "chalk": "1.0.0",
@@ -46,7 +46,7 @@
     "glob": "5.0.10",
     "lodash": "3.9.3",
     "meow": "3.1.0",
-    "provisioning": "1.4.0",
+    "provisioning": "git://github.com:liuxiaoxinxin/provisioning.git",
     "rimraf": "2.4.0",
     "simple-plist": "0.0.4",
     "temporary": "0.0.8"
